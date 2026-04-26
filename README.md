@@ -40,7 +40,7 @@ This implementation uses the following demo scenario:
 ## Architecture
 
 <p align="center">
-  <a href="./docs/architecture.md">
+  <a href="./docs/images/syncbridge-architecture.png">
     <img src="./docs/images/syncbridge-architecture.png"
          alt="SyncBridge Architecture"
          width="900">
