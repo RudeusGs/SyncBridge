@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SyncBridge.SourceMockApi/SyncBridge.SourceMockApi.csproj" Id="25743ad1-9dce-48aa-a967-a70a23b8e91a" />
+  <Project Path="SyncBridge.Worker/SyncBridge.Worker.csproj" />
+  <Project Path="SyncBridge.Shared/SyncBridge.Shared.csproj" />
+  <Project Path="SyncBridge.AdminApi/SyncBridge.AdminApi.csproj" />
+</Solution>

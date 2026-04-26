@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SyncBridge.SourceMockApi\\SyncBridge.SourceMockApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "SyncBridge.SourceMockApi"
+      },
+      {
+        "Path": "SyncBridge.Worker\\SyncBridge.Worker.csproj",
+        "Action": "Start",
+        "DebugTarget": "SyncBridge.Worker"
+      }
+    ]
+  }
+]
