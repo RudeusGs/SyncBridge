@@ -47,10 +47,6 @@ This implementation uses the following demo scenario:
   </a>
 </p>
 
-<p align="center">
-  <em>Click the diagram to view the full architecture documentation.</em>
-</p>
-
 ```text
 SourceMockApi --> SyncBridge.Worker --> PostgreSQL
                        |                  |
